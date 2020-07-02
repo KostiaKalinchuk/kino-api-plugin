@@ -1,0 +1,43 @@
+#progressbar {
+    width: 80%;
+    margin-top: 30px;
+    height: 20px;
+}
+.kap-wrapper-all {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.kap-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    justify-content: end;
+}
+
+.kap-fields {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#kap_plugin_save_button {
+    width: 150px;
+    /*background: blue;*/
+}
+
+.video-api {
+    width: 200px;
+    /*margin-top: 25px !important;*/
+    margin-right: 250px !important;
+    height: 50px;
+}
+
+ .checkbox-field {
+     display: flex;
+     justify-content: start;
+ }
+
+#kinoid {
+    margin: 2px 0 0 10px;
+}
